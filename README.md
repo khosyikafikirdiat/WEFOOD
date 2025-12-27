@@ -6,7 +6,7 @@ Project Management Plan and implementation for WEFOOD – Web-based Food Orderin
 |--------------------------|--------------|
 | Ikfan Putra M.D.P        | 1206230010   |
 | Madina Nilasari          | 1206230057   |
-| Khosyi Kafi Kirdiat      | 12062300XX   |
+| Khosyi Kafi Kirdiat      | 1206230029  |
 | Sabrina Salva K.S        | 1206230061   |
 
 ## 📝 Tentang Proyek
